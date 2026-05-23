@@ -206,7 +206,7 @@ Through this project, I learned:
 # 👨‍💻 Author
 
 ## Yash Rakhunde
-
+Email-: yashrakhunde5@gmail.com
 Computer Engineering Student | AI & ML Enthusiast | NLP Learner
 
 ---
