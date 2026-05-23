@@ -74,9 +74,7 @@ Sentiment-Analysis-System/
 ├── sentiment_analysis.ipynb
 ├── README.md
 ├── requirements.txt
-├── dataset.csv
-└── .gitignore
-```
+
 
 ---
 
